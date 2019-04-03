@@ -1,0 +1,22 @@
+
+//ITEMS
+item.Pokeball.name=Pokeball
+item.Greatball.name=Greatball
+
+
+
+//TOOLS
+item.pokeball_sword.name=Poke Sward!
+item.pokeball_shovel.name=Poke Shovel
+item.pokeball_pickaxe.name=Poke Pick
+item.pokeball_axe.name=Poke Battle axe of DOOM!
+item.pokeball_hoe.name=Poke Bitch
+
+
+
+//BLOCKS
+tile.Poke_Block.name=Poke Block
+tile.Rock_Block.name=Rock Block
+
+//Creative Tabs
+itemGroup.pokemon_items=Pokemon Items

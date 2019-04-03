@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+   "textures": {
+       "layer0": "pm:items/helditems/pokeball_pickaxe"
+   }
+}
