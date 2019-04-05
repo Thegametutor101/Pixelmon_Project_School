@@ -1,9 +1,9 @@
 
 //ITEMS
-item.Pokeball.name=Pokeball
-item.Greatball.name=Greatball
-
-
+item.pokeball.name=Pokeball
+item.greatball.name=Greatball
+item.standard_base.name=Standard Base
+item.pokeball_lid.name=Pokeball Lid
 
 //TOOLS
 item.pokeball_sword.name=Poke Sward!
@@ -12,11 +12,12 @@ item.pokeball_pickaxe.name=Poke Pick
 item.pokeball_axe.name=Poke Battle axe of DOOM!
 item.pokeball_hoe.name=Poke Bitch
 
-
+//ARMOR
+item.pokeball_boots.name=Running Shoes
 
 //BLOCKS
 tile.Poke_Block.name=Poke Block
 tile.Rock_Block.name=Rock Block
 
 //Creative Tabs
-itemGroup.pokemon_items=Pokemon Items
+itemGroup.PokeballTab=Pokeballs
