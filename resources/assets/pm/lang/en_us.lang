@@ -5,6 +5,20 @@ item.greatball.name=Greatball
 item.standard_base.name=Standard Base
 item.pokeball_lid.name=Pokeball Lid
 
+//APRICORNS
+item.apricorns_black.name=Apricorns Noir
+item.apricorns_blue.name=Apricorns Bleu
+item.apricorns_green.name=Apricorns Vert
+item.apricorns_orange.name=Apricorns Orange
+item.apricorns_pink.name=Apricorns Rose
+item.apricorns_purple.name=Apricorns Violet
+item.apricorns_red.name=Apricorns Rouge
+item.apricorns_skyblue.name=Apricorns Bleu Ciel
+item.apricorns_white.name=Apricorns Blanc
+item.apricorns_yellow.name=Apricorns Jaune
+
+
+
 //TOOLS
 item.pokeball_sword.name=Poke Sward!
 item.pokeball_shovel.name=Poke Shovel
