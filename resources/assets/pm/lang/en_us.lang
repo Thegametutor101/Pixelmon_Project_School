@@ -17,7 +17,17 @@ item.apricorns_skyblue.name=Apricorns Bleu Ciel
 item.apricorns_white.name=Apricorns Blanc
 item.apricorns_yellow.name=Apricorns Jaune
 
-
+//COOKED APRICORNS
+item.cooked_apricorns_black.name=Apricorns Noir Cuit
+item.cooked_apricorns_blue.name=Apricorns Bleu Cuit
+item.cooked_apricorns_green.name=Apricorns Vert Cuit
+item.cooked_apricorns_orange.name=Apricorns Orange Cuit
+item.cooked_apricorns_pink.name=Apricorns Rose Cuit
+item.cooked_apricorns_purple.name=Apricorns Violet Cuit
+item.cooked_apricorns_red.name=Apricorns Rouge Cuit
+item.cooked_apricorns_skyblue.name=Apricorns Bleu Ciel Cuit
+item.cooked_apricorns_white.name=Apricorns Blanc Cuit
+item.cooked_apricorns_yellow.name=Apricorns Jaune Cuit
 
 //TOOLS
 item.pokeball_sword.name=Poke Sward!
