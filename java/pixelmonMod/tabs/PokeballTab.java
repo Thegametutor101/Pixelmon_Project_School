@@ -11,7 +11,8 @@ public class PokeballTab extends CreativeTabs{
 
 	public PokeballTab(String label) {
 		super(label);
-		this.setBackgroundImageName("pokeball_image");
+		//must put ".png"
+		this.setBackgroundImageName("pokeball_image.png");
 	}
 
 	@Override

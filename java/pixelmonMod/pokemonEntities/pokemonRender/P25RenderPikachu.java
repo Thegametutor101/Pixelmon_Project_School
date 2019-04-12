@@ -10,14 +10,19 @@ import pixelmonMod.pokemonEntities.pokemon.P25Pikachu;
 import pixelmonMod.pokemonEntities.pokemonModel.P25ModelPikachu;
 import pixelmonMod.util.Reference;
 
-public class P25RenderPikachu extends RenderLiving<P25Pikachu>{
+public class P25RenderPikachu extends Render<P25Pikachu>{
 	
-	public static final ResourceLocation TEXTURES = new ResourceLocation(Reference.MOD_ID + ":textures/entity/P25ModelPikachuTexture");
-
-
-	public P25RenderPikachu(RenderManager rendermanagerIn) {
-		super(rendermanagerIn, new P25ModelPikachu(), 0.5f);
+	public static final ResourceLocation TEXTURES = new ResourceLocation(Reference.MOD_ID + ":textures/entities/P25ModelPikachuTexture.png");
+	private P25ModelPikachu model = new P25ModelPikachu();
+	
+	public P25RenderPikachu(RenderManager renderManager) {
+		super(renderManager);
 	}
+	
+    @Override
+    public void doRender(P25Pikachu entity, double x, double y, double z, float entityYaw, float partialTicks) {
+        model.render(entity, 0F, 0F, 0F, 0F, 0F, 1F);
+    }
 
 	@Override
 	protected ResourceLocation getEntityTexture(P25Pikachu entity) {

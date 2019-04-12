@@ -12,8 +12,11 @@ public class ModBlocks {
 	
 	public static final List<Block> BLOCKS = new ArrayList<Block>();
 	
+	//Standard Blocks
 	public static final Block POKE_BLOCK = new PokeBlock("Poke_Block", Material.IRON);
 	public static final Block ROCK_BLOCK = new RockBlock("Rock_Block", Material.ROCK);
 	
+	//Ores
+	//public static final Block ORE_END
 
 }
