@@ -9,8 +9,6 @@ import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import pixelmonMod.itemANDblock.blocks.ModBlocks;
 import pixelmonMod.itemANDblock.items.ModItems;
 import pixelmonMod.itemANDblock.items.aluminium.Aluminium;
-import pixelmonMod.itemANDblock.items.apricorns.Apricorns;
-import pixelmonMod.itemANDblock.items.apricorns.cookedapricorns.CookedApricorns;
 import pixelmonMod.itemANDblock.items.armors.Armors;
 import pixelmonMod.itemANDblock.items.pokeballs.Pokeballs;
 import pixelmonMod.itemANDblock.items.tools.Tools;
@@ -26,8 +24,6 @@ public class RegistryHandler {
 		event.getRegistry().registerAll(Tools.ITEMS.toArray(new Item[0]));
 		event.getRegistry().registerAll(Armors.ITEMS.toArray(new Item[0]));
 		event.getRegistry().registerAll(Aluminium.ITEMS.toArray(new Item[0]));
-		event.getRegistry().registerAll(Apricorns.ITEMS.toArray(new Item[0]));
-		event.getRegistry().registerAll(CookedApricorns.ITEMS.toArray(new Item[0]));
 	}
 	
 	@SubscribeEvent
@@ -45,16 +41,6 @@ public class RegistryHandler {
 			}
 		}
 		for(Item item : Aluminium.ITEMS) {
-			if(item instanceof IHasModel) {
-				((IHasModel)item).registerModels();
-			}
-		}
-		for(Item item : Apricorns.ITEMS) {
-			if(item instanceof IHasModel) {
-				((IHasModel)item).registerModels();
-			}
-		}
-		for(Item item : CookedApricorns.ITEMS) {
 			if(item instanceof IHasModel) {
 				((IHasModel)item).registerModels();
 			}
