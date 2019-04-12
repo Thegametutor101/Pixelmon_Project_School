@@ -1,33 +1,12 @@
 
-//ITEMS
+//Pokeballs
 item.pokeball.name=Pokeball
 item.greatball.name=Greatball
 item.standard_base.name=Standard Base
 item.pokeball_lid.name=Pokeball Lid
 
-//APRICORNS
-item.apricorns_black.name=Black Apricorn
-item.apricorns_blue.name=Blue Apricorn
-item.apricorns_green.name=Green Apricorn
-item.apricorns_orange.name=Orange Apricorn
-item.apricorns_pink.name=Pink Apricorn
-item.apricorns_purple.name=Purple Apricorn
-item.apricorns_red.name=Red Apricorn
-item.apricorns_skyblue.name=Skyblue Apricorn
-item.apricorns_white.name=White Apricorn
-item.apricorns_yellow.name=Yellow Apricorn
-
-//COOKED APRICORNS
-item.cooked_apricorns_black.name=Cooked Black Apricorn
-item.cooked_apricorns_blue.name=Cooked Blue Apricorn
-item.cooked_apricorns_green.name=Cooked Green Apricorn
-item.cooked_apricorns_orange.name=Cooked Orange Apricorn
-item.cooked_apricorns_pink.name=Cooked Pink Apricorn
-item.cooked_apricorns_purple.name=Cooked Purple Apricorn
-item.cooked_apricorns_red.name=Cooked Red Apricorn
-item.cooked_apricorns_skyblue.name=Cooked Skyblue Apricorn
-item.cooked_apricorns_white.name=Cooked White Apricorn
-item.cooked_apricorns_yellow.name=Cooked Yellow Apricorn
+//Materials
+item.aluminium_ingot.name=Aluminium Ingot
 
 //TOOLS
 item.pokeball_sword.name=Poke Sward!
@@ -44,4 +23,7 @@ tile.Poke_Block.name=Poke Block
 tile.Rock_Block.name=Rock Block
 
 //Creative Tabs
-itemGroup.PokeballTab=Pokeballs
+itemGroup.pokeball_tab=Pokeballs
+
+//Entities
+entity.Pikachu.name=Pikachu

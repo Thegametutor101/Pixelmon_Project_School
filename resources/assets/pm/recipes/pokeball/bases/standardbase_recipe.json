@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "pm:aluminium_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "pm:standard_base",
+        "count": 3
+    }
+}
