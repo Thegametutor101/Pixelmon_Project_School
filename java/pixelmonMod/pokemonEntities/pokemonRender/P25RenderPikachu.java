@@ -12,7 +12,7 @@ import pixelmonMod.util.Reference;
 
 public class P25RenderPikachu extends Render<P25Pikachu>{
 	
-	public static final ResourceLocation TEXTURES = new ResourceLocation(Reference.MOD_ID + ":textures/entities/P25ModelPikachuTexture.png");
+	public static final ResourceLocation TEXTURES = new ResourceLocation(Reference.MOD_ID + ":textures/items/materials/aluminium_ingot.png");
 	private P25ModelPikachu model = new P25ModelPikachu();
 	
 	public P25RenderPikachu(RenderManager renderManager) {
