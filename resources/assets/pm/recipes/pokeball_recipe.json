@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    
+    "ingredients":
+    [
+    
+    {
+        "item": "pm:pokeball_lid"
+    },
+    
+    {   
+        "item": "minecraft:stone_button"
+    },
+    
+    {   
+        "item": "pm:standard_base"
+    }
+    
+    ],
+    
+    "result":
+    {
+        "item": "pm:pokeball",
+        "count": 1
+    }
+}
