@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "north": "pm:blocks/buildingblocks/poke_block_north",
+        "south": "pm:blocks/buildingblocks/poke_block_sides",
+        "east": "pm:blocks/buildingblocks/poke_block_sides",
+        "west": "pm:blocks/buildingblocks/poke_block_sides",
+        "up": "pm:blocks/buildingblocks/poke_block_up",
+        "down": "pm:blocks/buildingblocks/poke_block_down"
+    }
+}

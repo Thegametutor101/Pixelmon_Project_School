@@ -1,0 +1,111 @@
+
+// A partir de ce document, vous pouvez voir la pluspart des facons de faire des recettes.
+
+
+
+
+/*  Shaped sans espaces  et   AVEC DATA(plusieurs sortes de laine et de bois etc...)
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "W",
+        "B",
+        "I"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "minecraft:wool",
+            "data": 14
+        },
+        
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "B":
+        {
+            "item": "minecraft:stone_button"
+        }
+    },
+    
+    "result":
+    {
+        "item": "pm:pokeball",
+        "count": 3
+    }
+}
+*/
+
+
+//******************************************************************************
+
+
+/* Shaped avec espaces et sans data
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " P ",
+        "PBP",
+        " P "
+    ],
+    
+    "key":
+    {
+        "P":
+        {
+            "item": "pm:Pokeball"
+        },
+        
+        "B":
+        {
+            "item": "minecraft:stone_button"
+        }
+    },
+    
+    "result":
+    {
+        "item": "pm:Poke_Block",
+        "count": 3
+    }
+}
+*/
+
+
+//********************************************************************************
+
+/*  Shapeless
+{
+    "type": "minecraft:crafting_shapeless",
+    
+    "ingredients":
+    [
+    
+    {
+        "item": "pm:Pokeball"
+    },
+    
+    {   
+        "item": "minecraft:stone_button"
+    },
+    
+    {   
+        "item": "minecraft:stone_button"
+    }
+    
+    ],
+    
+    "result":
+    {
+        "item": "pm:Pokeball",
+        "count": 3
+    }
+}
+*/

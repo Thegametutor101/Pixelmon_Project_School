@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "pm:blocks/buildingblocks/ore_end_aluminium"
+    }
+}

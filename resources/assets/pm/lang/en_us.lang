@@ -1,0 +1,35 @@
+
+//Items
+item.pokeball.name=Pokeball
+item.greatball.name=Greatball
+item.ultraball.name=Ultraball
+item.standard_base.name=Standard Base
+item.pokeball_lid.name=Pokeball Lid
+
+//BLOCKS
+tile.aluminium_block.name=Aluminium Block
+tile.ore_overworld_aluminium.name=Aluminium Ore
+tile.ore_overworld_copper.name=Copper Ore
+tile.ore_end_aluminium.name=Abyssal Aluminium Ore
+tile.ore_end_copper.name=Abyssal Copper Ore
+tile.ore_nether_aluminium.name=Fiery Aluminium Ore
+tile.ore_nether_copper.name=Fiery Copper Ore
+
+//Minerals
+item.aluminium_ingot.name=Aluminium Ingot
+
+//TOOLS
+item.pokeball_sword.name=Poke Sward!
+item.pokeball_shovel.name=Poke Shovel
+item.pokeball_pickaxe.name=Poke Pick
+item.pokeball_axe.name=Poke Battle axe of DOOM!
+item.pokeball_hoe.name=Poke Bitch
+
+//ARMOR
+item.pokeball_boots.name=Running Shoes
+
+//Creative Tabs
+itemGroup.pokeball_tab=Pokeballs
+
+//Entities
+entity.Pikachu.name=Pikachu
