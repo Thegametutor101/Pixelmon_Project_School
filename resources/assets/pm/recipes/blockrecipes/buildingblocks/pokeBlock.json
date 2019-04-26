@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " P ",
+        "PBP",
+        " P "
+    ],
+    
+    "key":
+    {
+        "P":
+        {
+            "item": "pm:Pokeball"
+        },
+        
+        "B":
+        {
+            "item": "minecraft:stone_button"
+        }
+    },
+    
+    "result":
+    {
+        "item": "pm:Poke_Block",
+        "count": 3
+    }
+}
