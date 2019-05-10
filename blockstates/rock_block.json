@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": {"model": "pm:rock_block" }
+    }
+}
