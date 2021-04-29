@@ -1,0 +1,60 @@
+
+//Pokeballs
+item.pokeball.name=Pokeball
+item.greatball.name=Greatball
+item.ultraball.name=Ultraball
+item.standard_base.name=Standard Base
+item.pokeball_lid.name=Pokeball Lid
+
+//Apricorns
+item.blue_apricorn.name=Blue Apricorn
+item.red_apricorn.name=Red Apricorn
+item.yellow_apricorn.name=Yellow Apricorn
+item.black_apricorn.name=Black Apricorn
+item.white_apricorn.name=White Apricorn
+item.green_apricorn.name=Green Apricorn
+item.pink_apricorn.name=Pink Apricorn
+item.orange_apricorn.name=Orange Apricorn
+item.skyblue_apricorn.name=SkyBlue Apricorn
+item.purple_apricorn.name=Purple Apricorn
+
+item.cooked_blue_apricorn.name=Cooked Blue Apricorn
+item.cooked_red_apricorn.name=Cooked Red Apricorn
+item.cooked_yellow_apricorn.name=Cooked Yellow Apricorn
+item.cooked_black_apricorn.name=Cooked Black Apricorn
+item.cooked_white_apricorn.name=Cooked White Apricorn
+item.cooked_green_apricorn.name=Cooked Green Apricorn
+item.cooked_pink_apricorn.name=Cooked Pink Apricorn
+item.cooked_orange_apricorn.name=Cooked Orange Apricorn
+item.cooked_skyblue_apricorn.name=Cooked SkyBlue Apricorn
+item.cooked_purple_apricorn.name=Cooked Purple Apricorn
+
+//Food and Berries
+item.oran_berry.name=Oran Berry
+item.evil_apple.name=Evil Apple
+
+//BLOCKS
+tile.poke_block.name=Poke Block
+tile.rock_block.name=Rock Block
+tile.aluminium_block.name=Aluminium Block
+tile.aluminium_ore.name=Aluminium Ore
+
+//Minerals
+item.aluminium_ingot.name=Aluminium Ingot
+
+//TOOLS
+item.pokeball_sword.name=Poke Sward!
+item.pokeball_shovel.name=Poke Shovel
+item.pokeball_pickaxe.name=Poke Pick
+item.pokeball_axe.name=Poke Battle axe of DOOM!
+item.pokeball_hoe.name=Poke Bitch
+
+//ARMOR
+item.running_shoes.name=Running Shoes
+
+//Creative Tabs
+itemGroup.pokeball_tab=Pokeballs
+itemGroup.natural_tab=Nature Spawns
+
+//Entities
+entity.Pikachu.name=Pikachu
